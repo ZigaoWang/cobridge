@@ -375,6 +375,7 @@ a:focus {
     display: flex;
     justify-content: center;
     margin-top: 25px;
+    position: fixed;
 
     a {
       @include hero_btn($primary1, $white, 10px, 35px, 35px);
