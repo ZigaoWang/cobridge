@@ -5,8 +5,8 @@ body {
 }
 
 .layout_padding {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 10vh;
+  padding-bottom: 5vh;
 }
 
 .layout_padding2 {
@@ -490,6 +490,10 @@ a:focus {
 
 .contact_section {
   position: relative;
+}
+
+.contact_section .heading_container {
+  margin-bottom: 3vh;
 }
 
 .contact_section script {
