@@ -488,6 +488,14 @@ a:focus {
   font-size: 4vh;
 }
 
+.blog_section a {
+  color: black;
+}
+
+.blog_section a:hover {
+  color: #0a559b;
+}
+
 .contact_section {
   position: relative;
 }
