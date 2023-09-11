@@ -339,6 +339,14 @@ a:focus {
   transition: all .1s;
 }
 
+.service_section .service_container .box a {
+  color: black;
+}
+
+.service_section .service_container .box a:hover {
+  color: #0a559b;
+}
+
 .service_section .service_container .box .img-box {
   display: -webkit-box;
   display: -ms-flexbox;
