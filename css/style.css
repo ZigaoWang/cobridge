@@ -574,4 +574,8 @@ a:focus {
 .footer_section p a {
   color: #222222;
 }
+
+.footer_section a:hover{
+  color: #0a559b;
+}
 /*# sourceMappingURL=style.css.map */
