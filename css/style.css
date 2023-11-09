@@ -504,6 +504,28 @@ a:focus {
   color: #0a559b;
 }
 
+.message {
+  text-align: center;
+}
+
+.message h2 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.product {
+  width: 25vw;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.product img {
+  width: 50%;
+}
+
 .contact_section {
   position: relative;
 }
