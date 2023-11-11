@@ -135,17 +135,8 @@ a:focus {
 
 .navbar-brand img {
   margin-right: 5px;
-  width: 20vh;
+  width: 150px;
   margin-top: 1vh;
-}
-
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  .navbar-brand img {
-    margin-right: 5px;
-    width: 12vh;
-    margin-top: 1vh;
-  }
 }
 
 .navbar-brand span {
