@@ -135,8 +135,17 @@ a:focus {
 
 .navbar-brand img {
   margin-right: 5px;
-  width: 12vw;
+  width: 20vh;
   margin-top: 1vh;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .navbar-brand img {
+    margin-right: 5px;
+    width: 12vh;
+    margin-top: 1vh;
+  }
 }
 
 .navbar-brand span {
@@ -516,10 +525,20 @@ a:focus {
 }
 
 .product {
-  width: 25vw;
+  width: 400px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .product {
+    width: 90vw;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .product img {
