@@ -504,11 +504,20 @@ a:focus {
   color: #0a559b;
 }
 
-.message {
+.message h4 {
+  width: 100%;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .message h2 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.contact {
   width: 100%;
   text-align: center;
   margin-bottom: 30px;
